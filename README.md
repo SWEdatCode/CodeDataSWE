@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swethaseb6
+- 👋 Hi, I’m @Swetzel
 - 👀 I'm interested in  All things data ;)
 - 🌱 I’m currently learning Python, R, SQL
 - 💞️ I’m looking to collaborate on ...
